@@ -1,7 +1,6 @@
 let circleRedX, circleBlueX, circleRedY, circleBlueY;
 let circleRedSpeed, circleBlueSpeed, circleRedSpeedY, circleBlueSpeedY;
 let circleRedColor, circleBlueColor;
-let flag = true;
 let occurredCollision = false;
 let collisionTime;
 
